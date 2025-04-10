@@ -1,10 +1,1 @@
-- 👋 Hi, I’m @RodolfoGama0101
-- 👀 I’m interested in Python
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-RodolfoGama0101/RodolfoGama0101 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Hello! I'm a back-end developer. I use Java and Spring Boot to create solutions for Unimed. 
