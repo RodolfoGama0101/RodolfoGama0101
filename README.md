@@ -1,12 +1,67 @@
+<h1 align="center">Olá, eu sou Rodolfo Gama 👋</h1>
 
+<p align="center">
+  <strong>Desenvolvedor backend · Java & Spring Boot</strong><br>
+  APIs, aplicações web e projetos mobile.
+</p>
 
-# About Me:
-Hello! I'm a back-end developer. I use Java and Spring Boot to create solutions for Unimed. 
+<p align="center">
+  <a href="https://linkedin.com/in/rodolfo-gama">LinkedIn</a> ·
+  <a href="mailto:rodolfo.gama2006@gmail.com">E-mail</a> ·
+  <a href="https://github.com/RodolfoGama0101?tab=repositories">Repositórios</a>
+</p>
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/rodolfo_fgama) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/rodolfo-gama) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:rodolfo.gama2006@gmail.com) 
+## Sobre mim
 
-# 💻 Tech Stack:
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Chart.js](https://img.shields.io/badge/chart.js-F5788D.svg?style=for-the-badge&logo=chart.js&logoColor=white) ![Insomnia](https://img.shields.io/badge/Insomnia-black?style=for-the-badge&logo=insomnia&logoColor=5849BE) ![Ionic](https://img.shields.io/badge/Ionic-%233880FF.svg?style=for-the-badge&logo=Ionic&logoColor=white) ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Gimp](https://img.shields.io/badge/Gimp-657D8B?style=for-the-badge&logo=gimp&logoColor=FFFFFF) ![Inkscape](https://img.shields.io/badge/Inkscape-e0e0e0?style=for-the-badge&logo=inkscape&logoColor=080A13) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=RodolfoGama0101&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+Sou desenvolvedor com foco em **backend Java e Spring Boot**, com experiência no desenvolvimento de soluções para a **Unimed**. Nos meus projetos, trabalho com APIs REST, persistência de dados, autenticação e organização da lógica de negócio.
+
+Também desenvolvo aplicações web com **React, Next.js e TypeScript** e projetos mobile com **Flutter e Dart**. Meu portfólio reúne ferramentas para controle financeiro, organização de leituras, lembretes e registro de ensaios musicais.
+
+Compartilho meus estudos de Análise e Desenvolvimento de Sistemas no Mackenzie no repositório [ads-mack](https://github.com/RodolfoGama0101/ads-mack).
+
+## Projetos em destaque
+
+| Projeto | O que você encontra | Tecnologias |
+| --- | --- | --- |
+| **[Storage Control](https://github.com/RodolfoGama0101/storage-control)** | Backend de controle de estoque em desenvolvimento, com arquitetura hexagonal, cadastro de empresas, usuários e itens, além de migrações de banco. | Java · Spring Boot · JPA · MariaDB · Flyway |
+| **[Estante de Livros Virtual](https://github.com/RodolfoGama0101/estante-de-livros-virtual)** | API para cadastrar, buscar, atualizar e excluir livros, com cadastro de usuários e autenticação por JWT. | Java · Spring Boot · Spring Security · JPA · H2 |
+| **[GestOne](https://github.com/RodolfoGama0101/new-gestone)** | Aplicação de finanças pessoais com receitas, despesas, categorias, cartões de crédito e relatórios de fluxo de caixa. | Next.js · React · TypeScript · Firebase |
+| **[Contador Musical](https://github.com/RodolfoGama0101/contador-musical)** | PWA para registrar músicos por instrumento nos ensaios da CCB, com uso offline, armazenamento local e exportação de relatório em PDF. | Next.js · TypeScript · Tailwind CSS · Serwist |
+| **[Lembretes](https://github.com/RodolfoGama0101/app-lembretes)** | Aplicativo com lembretes recorrentes, notificações locais no celular e backup em JSON. Os dados ficam no aparelho, sem cadastro ou servidor. | Flutter · Dart · Notificações locais |
+
+## Tecnologias
+
+**Backend**
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
+![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=flat-square&logo=mariadb&logoColor=white)
+
+APIs REST · Spring Data JPA · Spring Security · JWT · Flyway · Maven
+
+**Web**
+
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-DD2C00?style=flat-square&logo=firebase&logoColor=white)
+
+JavaScript · HTML · CSS · Tailwind CSS · Firebase Authentication · Firestore
+
+**Mobile**
+
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
+
+## Práticas presentes nos meus projetos
+
+- **Arquitetura:** separação entre domínio, casos de uso e adaptadores no Storage Control.
+- **Autenticação e dados:** JWT no backend Java e Firebase Authentication e Firestore nas aplicações com Firebase.
+- **Testes e integração contínua:** Jest e Playwright no GestOne, Vitest no Contador Musical e testes de widgets e integração no Lembretes; verificações automatizadas com GitHub Actions no GestOne.
+- **Uso offline e armazenamento local:** PWA no Contador Musical e lembretes salvos no aparelho.
+
+## Contato
+
+Para conversar sobre projetos, desenvolvimento ou oportunidades:
+
+[LinkedIn](https://linkedin.com/in/rodolfo-gama) · [rodolfo.gama2006@gmail.com](mailto:rodolfo.gama2006@gmail.com) · [Instagram](https://instagram.com/rodolfo_fgama)
